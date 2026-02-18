@@ -1,10 +1,9 @@
 # Hello 👋
 
-##### I’m an Economist (M.Sc. at UFMG) and I’ve been working with data for 5+ years — somewhere along the way I fell into healthcare, public policy, real estate, and social research, and honestly… I kind of love the organized chaos of it all. Right now, I’m a Data Analyst at Einstein Hospital Israelita , working on Proadi-SUS projects and using econometrics and statistics to turn real-world questions into clear, evidence-based answers (and hopefully better decisions). I’m the type who enjoys cleaning messy datasets, building reproducible analyses, and turning results into dashboards people can actually use. 
+##### I’m an Economist (M.Sc. at UFMG) and I’ve been working with data for 5+ years. Somewhere along the way I fell into healthcare, public policy, real estate, and social research, and honestly… I kind of love the organized chaos of it all. Right now, I’m a Data Analyst at Einstein Hospital Israelita , working on Proadi-SUS projects and using econometrics and statistics to turn real-world questions into clear, evidence-based answers (and hopefully better decisions). I’m the type who enjoys cleaning messy datasets, building reproducible analyses, and turning results into dashboards people can actually use. 
 
 
-##### If you want to chat about data, econometrics, health policy, or collaborate on something cool, feel free to reach out through the links below. ![ClipWindowsGIF](https://github.com/user-attachments/assets/c08a8405-39c2-495f-9b85-07d5ae96e4ed)
-
+##### If you want to chat about data, econometrics, health policy, or collaborate on something cool, feel free to reach out through the links below! 
 
 ## Something about me
 
@@ -24,10 +23,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="stata" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original-wordmark.svg">
 </div>
+
   
-  ##
-  
- ### Let's keep in touch!
+ ## Let's keep in touch!
  
 <div> 
   <a href="https://medium.com/@barcelos.catarina" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
